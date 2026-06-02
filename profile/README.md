@@ -23,7 +23,7 @@
 
 ## 🎓 About Us
 
-Welcome to **Code-Lab_Devs**! We are an official club of passionate **IT Students at the University of Tripoli**. 
+Welcome to **Code-Lab-Devs**! We are an official club of passionate **IT Students at the University of Tripoli**. 
 
 **Code Lab** is more than just a university club; it's a collaborative hub where students transition from learning theory to building real-world software. We host interactive lectures, workshops, and hands-on sessions to bridge the gap between academic studies and the modern tech industry.
 
@@ -79,5 +79,5 @@ We believe in a respectful, inclusive, and supportive environment. Whether you a
 <div align="center">
   <sub>Made with ❤️ by the <b>Code Lab</b> Admin Team</sub>
   <br/>
-  <sub>© 2026 Code-Lab_Devs. University of Tripoli, Libya 🇱🇾</sub>
+  <sub>© 2026 Code-Lab-Devs. University of Tripoli, Libya 🇱🇾</sub>
 </div>
